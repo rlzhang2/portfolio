@@ -28,7 +28,7 @@ url: "https://ruilingz.github.io" # the base hostname & protocol for your site, 
 github_username:  rlzhang2
 
 # Build settings
-theme: minima
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
