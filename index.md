@@ -1,10 +1,14 @@
 ---
-layout: default
+layout: home
 title: Home
 ---
 
-## Welcome to this sample portfolio!
+## Welcome to Ruiling's portfolio!
 
+Welcome to this portfolio. 
+
+### E-mail
+ruilingz@andrew.cmu.edu
 
 #### Here are some example pages:
 
